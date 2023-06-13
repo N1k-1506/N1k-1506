@@ -12,16 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Java**
 
-- ⚡ Fun fact **I’m new to coding**
+- ⚡ **I’m new to coding**
 
-<h3 align="left">Connect with me:</h3>
-....
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n1k-1506&show_icons=true&locale=en" alt="n1k-1506" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1k-1506&" alt="n1k-1506" /></p>
